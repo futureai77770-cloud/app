@@ -1,0 +1,6 @@
+{
+  "name": "أهل القرآن",
+  "description": "تطبيق إسلامي بسيط وهادئ لمساعدة المسلم على المحافظة على صلواته وورده وعباداته اليومية وفق توقيت القاهرة بأسبوعية تبدأ وتنتهي فجر الجمعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
